@@ -5,8 +5,8 @@
 	- Primeiro passo foi olhar a documentação
 	- Dados serão recuperados como JSON>>javascript, xml e outros
 	
-Utilizando biblioteca REQUESTS
-	- pip install requests
+	Utilizando biblioteca REQUESTS
+		- pip install requests
 
 # web scraping com python
 ## protoclo HTTP
