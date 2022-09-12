@@ -26,6 +26,6 @@ print('R${:.2f} pra dolar U$${:.2f}'.format(real, dolar))
 
 #manipulaçao de dicionário e conversor simples de Real para dolar criado
 #side project LestCode e Santander
-#valorDeConversao = float(input('informe o valor a ser convertido:\nR$ '))
-#cotaçãoDoValor = valoresdemoedas['BRL']
-#print(f'R${valorDeConversao} pra dolar US${valorDeConversao/cotaçãoDoValor:.2f}')
+valorDeConversao = float(input('informe o valor a ser convertido:\nR$ '))
+cotaçãoDoValor = valoresdemoedas['BRL']
+print(f'R${valorDeConversao} pra dolar US${valorDeConversao/cotaçãoDoValor:.2f}')

@@ -1,5 +1,7 @@
 # API de conversão de valores de moedas.
 ## Dados são necessarios pra completar funcionalidades
+-Implementações de outros países serão apresentadas assim que possivel
+-No momento conversões de Real para Dolar funcionando perfeitamente
 ## Interface online de comunicação de dados: recuperar, pedir, alterar, ciar ou remover
 ## Consumindo a API
 	- Primeiro passo foi olhar a documentação
